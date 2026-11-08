@@ -1,0 +1,8 @@
+# Never commit bulk_extractor output or converted CSVs: they are evidence and contain personal data
+*.csv
+*.pcap
+*.raw
+*.mem
+*.E01
+report.xml
+csv/
