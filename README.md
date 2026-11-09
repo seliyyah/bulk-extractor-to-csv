@@ -2,7 +2,7 @@
 
 Turn bulk_extractor's huge text output into CSV files you can filter, sort and search in **Timeline Explorer**, Excel or any other CSV tool.
 
-![PowerShell 5.1 | 7](https://img.shields.io/badge/PowerShell-5.1%20%7C%207-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green) ![License: MIT](https://img.shields.io/badge/license-MIT-yellow)
+![PowerShell 5.1 | 7](https://img.shields.io/badge/PowerShell-5.1%20%7C%207-blue) ![Version](https://img.shields.io/badge/version-1.0.1-green) ![License: BSD-3-Clause](https://img.shields.io/badge/license-BSD--3--Clause-blue)
 
 ---
 
@@ -77,4 +77,10 @@ Neither tool is included here; this script only reads bulk_extractor's output.
 
 ## License
 
-[MIT](LICENSE). Provided as-is, without warranty. bulk_extractor output can contain personal data and key material: handle it according to your evidence-handling policies.
+Released under the **[BSD 3-Clause License](LICENSE)**. Copyright (c) 2026, seliyyah-dfir. It covers only this repository's files, not bulk_extractor or Timeline Explorer.
+
+**Sharing and redistributing.** You may use, copy, modify and share the script, including commercially. Sharing a link needs nothing more. A copy (a fork, a toolkit drive, a zip, a script inside your own toolkit) must keep the [LICENSE](LICENSE) file and the copyright and license lines in the script's header; a copy in another form must reproduce the notice, conditions and disclaimer in its documentation. Don't use the author's or contributors' names to promote derived products without written permission.
+
+## Disclaimer
+
+**THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.** As the license states in full, the copyright holder and contributors are not liable for any damages arising in any way from its use or from anyone's redistribution of it. bulk_extractor output can contain personal data and key material: you are responsible for handling it according to your evidence-handling policies and the law.

@@ -1,6 +1,6 @@
 # User guide
 
-**bulk-extractor-to-csv** version 1.0.0
+**bulk-extractor-to-csv** version 1.0.1
 
 1. [Running the script](#1-running-the-script)
 2. [What comes out](#2-what-comes-out)

@@ -37,7 +37,9 @@
     .\Convert-BeToCsv.ps1 -Folder E:\Analysis\case01_mem -Only url,domain,email -OutputPath E:\Analysis\case01_csv
 
 .NOTES
-    Version 1.0.0. Windows PowerShell 5.1 or PowerShell 7. MIT License.
+    Version 1.0.1. Windows PowerShell 5.1 or PowerShell 7.
+    License: BSD 3-Clause (SPDX-License-Identifier: BSD-3-Clause). Copyright (c) 2026, seliyyah-dfir.
+    See LICENSE. Provided "as is", without warranty of any kind.
     https://github.com/seliyyah/bulk-extractor-to-csv
 #>
 [CmdletBinding()]

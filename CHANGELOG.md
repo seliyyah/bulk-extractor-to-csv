@@ -2,6 +2,11 @@
 
 All notable changes to `Convert-BeToCsv.ps1`. Format based on [Keep a Changelog](https://keepachangelog.com/); versions follow [Semantic Versioning](https://semver.org/).
 
+## [1.0.1]
+
+### Changed
+- License changed from MIT to BSD 3-Clause. The script header carries the copyright and SPDX lines; the README adds "Sharing and redistributing" and Disclaimer sections. No change to what the script does.
+
 ## [1.0.0]
 
 First release.
