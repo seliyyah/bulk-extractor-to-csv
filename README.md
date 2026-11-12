@@ -66,7 +66,7 @@ No modules and no installs. The script makes no network calls.
 
 ## Related
 
-- [windows-dfir-collector](https://github.com/seliyyah/windows-dfir-collector) (Collect_v3): the Windows live-response collector whose memory images and pagefiles this was first written for. Section 10 of its user guide covers where to point bulk_extractor.
+- [Recollect](https://github.com/seliyyah/recollect-dfir) (formerly Collect_v3): the Windows live-response collector whose memory images and pagefiles this was first written for. Section 10 of its user guide covers where to point bulk_extractor.
 
 ## Credits
 
